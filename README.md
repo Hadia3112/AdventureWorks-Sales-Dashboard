@@ -32,6 +32,20 @@ This dashboard transforms raw sales data into actionable business insights throu
 - Orders and Revenue trend by month
 - Top Customer, Top Orders, and Top Revenue callouts
 
+##  Dashboard Preview
+
+### 1️⃣ Executive Summary
+![Executive Summary](executive-summary.png)
+
+### 2️⃣ Geographic Analysis
+![Geographic Analysis](geographic-analysis.png)
+
+### 3️⃣ Product Details
+![Product Details](product-details.png)
+
+### 4️⃣ Customer Details
+![Customer Details](customer-details.png)
+
 ##  Tools & Techniques Used
 - **Power BI Desktop** — data modeling, visualization, and report design
 - **DAX** — calculated columns, measures, time intelligence (YTD, MTD, SAMEPERIODLASTYEAR)
